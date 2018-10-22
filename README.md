@@ -1,2 +1,3 @@
-# bi-portfolio
-Business Intelligence projects
+# Business Intelligence projects
+
+Tämä repositori sisältää uusimpia Power BI -projektejani.
