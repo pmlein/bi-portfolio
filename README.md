@@ -1,3 +1,3 @@
 # Business Intelligence projects
 
-Tämä repositori sisältää uusimpia Power BI -projektejani.
+Tämä repositori sisältää uusimpia Business Intelligence -projektejani (Power BI, Google Data Studio).
